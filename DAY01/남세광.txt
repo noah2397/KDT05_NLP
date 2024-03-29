@@ -1,0 +1,45 @@
+독일의 Max Planch 
+Bristol 영국 : 브리스톨 로봇 연구소
+페퍼로봇
+
+네이탄 레포라(Nathan F.Lepora)
+
+Industrial revolution
+Grey Walter's Tortoise(1시데 전기적 로봇)
+- 빛을 쬐어주면 따라온다, light and touch
+- 1940년대 로봇(Bristol에서 만듦)
+
+1960~1970년대에는 일본의 반도체가 크게 성장하기 시작
+CNC(Computer numerical control)
+
+1980 : Machine-vision system
+2010 : 로봇이 생활로 들어오게 됌(Collaborative robots, Cobot)
+
+2020 : smart factory(쿠팡 로봇)
+10만명당 930개의 로봇을 쓴다
+
+로봇은 많아지는데 그걸 관리할 사람이 없다
+
+
+터치와 후각과 리센싱은 한창 연구중이다
+뇌와 손의 메커니즘을 모르겠다
+
+Vision-based Tactile Sensors(VBTS)
+F/T sensor을 사용하여, Bio Tac 사용
+FingerVision
+Gelsight : MIT에서 만듦, 젤을 사용하여 눌리는 것을 감지, 그림자의 관계를 가지고 물체를 캐치한다, 광원을 3개를 둔다 120도 마다 RGB 조명을 배치,  
+DIGIT
+TacTip (브리스톨에서 만듦) : 사진 찍음
+
+#+===============================================
+Proprioceptive Finary Gripper
+
+아루코마커(ArUco) : https://search.yahoo.com/search?fr=mcafee&type=E210KR91214G0&p=%EC%95%84%EB%A3%A8%EC%BD%94%EB%A7%88%EC%BB%A4
+
+Vision-based Robotic Grasping
+
+
+최소 3년은 버티자
+FingerVision이 가장 최신 기술이다 (그 다음은 DIGIT)
+GRE공부
+
