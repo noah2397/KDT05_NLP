@@ -17,3 +17,35 @@
 ![alt text](image.png)
 
 <hr/>
+
+### 개발 환경
+
+| 패키지 이름          | 버전     |
+| -------------------- | -------- |
+| torchaudio           | 2.2.2    |
+| torchtext            | 0.17.2   |
+| torchvision          | 0.17.2   |
+| tabulate             | 0.9.0    |
+| python               | 3.8.19   |
+| openai               | 1.16.1   |
+| opencv-python        | 4.9.0.80 |
+| Koreanize-matplotlib | 0.1.1    |
+| korpora              | 0.2.0    |
+| konlpy               | 0.6.0    |
+
+<hr/>
+
+### 네이버 블로그
+
+| 제목                                                                 | 링크                                                       | 작성일   | 관련 파일 |
+| -------------------------------------------------------------------- | ---------------------------------------------------------- | -------- | --------- |
+| 자연어 처리 : 파이썬 - 기본 환경 설정(VS code)                       | [Naver Blog](https://blog.naver.com/mathnoah/223398111745) | 24.03.28 | --        |
+| 자연어처리(NLP) 개요                                                 | [Naver Blog](https://blog.naver.com/mathnoah/223398111745) | 24.03.28 | --        |
+| N-gram, BOW, DTM, TF-IDF (Sklearn : CountVectorizer, TfidVectorizer) | [Naver Blog](https://blog.naver.com/mathnoah/223398344211) | 24.03.28 | --        |
+| 유사도, 패딩, 임베딩, 정규표현식                                     | [Naver Blog](https://blog.naver.com/mathnoah/223398367773) | 24.03.28 | --        |
+| 한국어 형태소 분석 패키지(개념)                                      | [Naver Blog](https://blog.naver.com/mathnoah/223398378833) | 24.03.28 | --        |
+| jamo, konlpy(Okt, Kkma, Hannanum, Komoran), nltk                     | [Naver Blog](https://blog.naver.com/mathnoah/223398460373) | 24.03.28 | DAY01     |
+| OOV, 하위단어토큰화(Subword Tokenization)                            | [Naver Blog](https://blog.naver.com/mathnoah/223398475874) | 24.03.28 | DAY02     |
+| 한국어 혐오 데이터셋, 토큰화                                         | [Naver Blog](https://blog.naver.com/mathnoah/223399066549) | 24.03.29 | DAY03     |
+| Naver 영화 리뷰 데이터셋 전처리                                      | [Naver Blog](https://blog.naver.com/mathnoah/223400102971) | 24.03.30 | DAY04     |
+| torchtext를 활용한 전처리                                            | [Naver Blog](https://blog.naver.com/mathnoah/223402950582) | 24.04.02 | DAY05     |
