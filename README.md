@@ -48,4 +48,6 @@
 | OOV, 하위단어토큰화(Subword Tokenization)                            | [Naver Blog](https://blog.naver.com/mathnoah/223398475874) | 24.03.28 | DAY02     |
 | 한국어 혐오 데이터셋, 토큰화                                         | [Naver Blog](https://blog.naver.com/mathnoah/223399066549) | 24.03.29 | DAY03     |
 | Naver 영화 리뷰 데이터셋 전처리                                      | [Naver Blog](https://blog.naver.com/mathnoah/223400102971) | 24.03.30 | DAY04     |
+| soynlp, ckonlpy(customized_konlpy) : 응집 확률, 중복 문자 제거, 단어 사전 추가  | [Naver Blog](https://blog.naver.com/mathnoah/223402923969) | 24.04.02 | DAY05     |
+| TF-IDF, 코사인 유사도로 추천 시스템 구현   | [Naver Blog](https://blog.naver.com/mathnoah/223402936479) | 24.04.02 | DAY05     |
 | torchtext를 활용한 전처리                                            | [Naver Blog](https://blog.naver.com/mathnoah/223402950582) | 24.04.02 | DAY05     |
